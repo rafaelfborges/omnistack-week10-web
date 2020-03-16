@@ -16,10 +16,13 @@
 
 > Frontend for DevRadar application, developed during the Week Omnistack 10 of [Rocketseat](https://rocketseat.com.br).
 > Two other applications are also part of this project:
+>
 > - [DevRadar - Backend (NodeJS + Express)](https://github.com/rafaelfborges/devradar-backend)
 > - [DevRadar - Mobile (React Native)](https://github.com/rafaelfborges/devradar-mobile)
 
 ### ✨ [Demo](https://devradar-osweek-web.herokuapp.com)
+
+![DevRadar - Backend](/demo/preview-devradar-web.png)
 
 ## Prerequisites
 
@@ -27,6 +30,7 @@
 - yarn >=1.21.1
 
 ## Dependencies
+
 - axios@^0.19.1,
 - react@^16.12.0,
 - react-dom@^16.12.0,
@@ -44,7 +48,9 @@ $ yarn install
 ```sh
 $ yarn start
 ```
+
 For build application
+
 ```sh
 $ yarn build
 ```
@@ -53,9 +59,9 @@ $ yarn build
 
 👤 **Rafael Borges**
 
-* Website: https://linkedin.com/in/rafaelfborges/
-* Github: [@rafaelfborges](https://github.com/rafaelfborges)
-* LinkedIn: [@rafaelfborges](https://linkedin.com/in/rafaelfborges)
+- Website: https://linkedin.com/in/rafaelfborges/
+- Github: [@rafaelfborges](https://github.com/rafaelfborges)
+- LinkedIn: [@rafaelfborges](https://linkedin.com/in/rafaelfborges)
 
 ## 🤝 Contributing
 
@@ -70,5 +76,6 @@ Give a ⭐️ if this project helped you!
 Copyright © 2020 [Rafael Borges](https://github.com/rafaelfborges).<br />
 This project is [MIT](https://github.com/rafaelfborges/devradar-web/blob/master/LICENSE) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
